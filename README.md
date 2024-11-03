@@ -55,7 +55,7 @@ Key questions to address:
 
 <p align="justify"> The graph demonstrates that the majority of visitors accessed the platform via mobile (530,775), followed by desktop (170,146), and tablet (34,414). This device breakdown is particularly relevant in the female sportswear market, where mobile shopping is common, especially among younger audiences. Mobile devices allow for quick access to social media and online stores, creating a seamless shopping experience from influencer posts to purchase. For women buying sportswear, especially leggings and sports bras, this accessibility allows them to easily compare items and see reviews, while potentially being influenced by trends on platforms like Instagram. The high mobile usage suggests that optimizing the mobile shopping experience is critical to capturing this audience effectively.
 
-# Analysis 7: Sales Performance and Revenue by Store Type
+# Analysis 5: Sales Performance and Revenue by Store Type
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/0539dc62-7778-4474-8aac-9c952ac0eb44">
 
