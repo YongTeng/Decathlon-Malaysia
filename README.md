@@ -7,7 +7,7 @@ Key questions to address:
 •	Was the target of recruiting more Generation Z customers achieved?
 •	Was the campaign profitable for Decathlon?
 
-#Business Intelligence Solution
+# Business Intelligence Solution
 
 ![image](https://github.com/user-attachments/assets/b3be26ef-2023-40d4-9a92-605b4154c296)
 
