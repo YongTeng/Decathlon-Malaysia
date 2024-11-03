@@ -65,8 +65,9 @@ Key questions to address:
 
 <p align="justify"> The graph shows that Facebook (44%) and Instagram (25%) are considered the most important platforms by marketers worldwide, followed by LinkedIn (21%). Instagram, specifically, aligns well with younger demographics, including Generation Z, making it a strategic platform for reaching this audience with influencer-driven campaigns. For Decathlon’s campaign, continuing to leverage Instagram, where younger consumers are active, is essential for targeting Generation Z effectively, particularly in promoting trendy sportswear items like leggings and bras. 
 
-
+#
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/8e768955-80ff-4cb1-81b9-c462b12e0ceb">
+
 
 <p align="justify"> The graph shows that the largest share of Instagram users falls within the 18-24 (31.7%) and 25-34 (30.6%) age groups, aligning with Generation Z and young millennials. Since these demographics are highly engaged on Instagram, Decathlon’s campaign can focus on creating visually engaging content tailored to their interests, emphasizing athleisure and functionality. Using influencers who resonate with this age group, Decathlon can better appeal to these potential customers, enhancing the campaign's effectiveness and driving sales of sportswear items tailored to younger, trend-conscious consumers.
 
