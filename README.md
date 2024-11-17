@@ -1,11 +1,12 @@
 # Business Problem
 The primary objectives of this influencer campaign, run by Decathlon's Domyos brand, were:
-•	To rejuvenate its customer base by attracting Generation Z customers.
-•	To assess the profitability of the campaign.
-The aim was to use influencer marketing, specifically a live Instagram session by fitness influencer Sissy Mua, to appeal to younger audiences and increase Generation Z engagement with Decathlon's Cardio Fitness products.
+•	To rejuvenate its customer base by attracting Generation Z customers. <br />
+•	To assess the profitability of the campaign. <br />
+
+<p align="justify"> The aim was to use influencer marketing, specifically a live Instagram session by fitness influencer Sissy Mua, to appeal to younger audiences and increase Generation Z engagement with Decathlon's Cardio Fitness products.
 Key questions to address:
-•	Was the target of recruiting more Generation Z customers achieved?
-•	Was the campaign profitable for Decathlon?
+•	Was the target of recruiting more Generation Z customers achieved? <br />
+•	Was the campaign profitable for Decathlon? <br />
 
 # Business Intelligence Solution
 
